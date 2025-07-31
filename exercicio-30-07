@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Minha Pagina</title>
+</head>
+
+<body>
+
+    <h2>Cardápio</h2>
+    <p>Comidas:</p>
+
+    <ul>
+        <li>Pastel R$7,00</li>
+        <li>Cachorro Quente R$8,00</li>
+        <li>Hambúrguer R$10,00</li>
+        <li>Mini Pizza R$7,00</li>
+        <li>Pizza R$6,00</li>
+    </ul>
+
+    <p>Bebidas</p>
+
+    <ul>
+        <li>Água R$3,00</li>
+        <li>Guarana R$5,00</li>
+        <li>Coca Cola R$5,00</li>
+        <li>Chocolate Quente R$6,00</li>
+    </ul>
+
+    <h1><strong>ACEITAMOS PIX E DINHEIRO!!</h1>
+</body>
+
+</html>
