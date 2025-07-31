@@ -7,7 +7,7 @@
 
 <body>
 
-    <h2>Cardápio</h2>
+    <h1>Cardápio</h1>
 
     <p>Comidas:</p>
 
@@ -28,7 +28,7 @@
         <li>Chocolate Quente R$6,00</li>
     </ul>
 
-    <h1><strong>ACEITAMOS PIX E DINHEIRO!!</h1>
+    <h3><strong>ACEITAMOS PIX E DINHEIRO!!</h3>
 </body>
 
 </html>
