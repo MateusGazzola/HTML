@@ -1,0 +1,28 @@
+h1 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 24px;
+}
+
+.times {
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+th {
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h2 {
+    color: black;
+    font-size: 40px;
+}
+
+a {
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+p {
+    color: red;
+}
