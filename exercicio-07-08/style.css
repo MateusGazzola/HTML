@@ -26,3 +26,21 @@ a {
 p {
     color: red;
 }
+
+table {
+    border-width: 2px;
+    border-style: solid;
+    border-color: black;
+}
+
+.brasileirao {
+    border: 3px solid black;
+}
+
+div {
+    width: 600px;
+    border: 5px solid black;
+    margin: 5;
+    padding: 10;
+
+}

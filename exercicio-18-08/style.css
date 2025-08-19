@@ -1,0 +1,37 @@
+.container {
+    position: fixed;
+    right: auto;
+    width: 1000px;
+    height: 100px;
+    border-width: 2px;
+    border-style: solid;
+    border-color: black;
+}
+
+.menu {
+    position: fixed;
+    width: 1000px;
+    height: 100px;
+    border-width: 2px;
+    border-style: solid;
+    border-color: black;
+}
+
+.logo {
+    position: static;
+    width: 340px;
+    height: 200px;
+    border-width: 1px;
+    border-style: solid;
+    border-color: black;
+}
+
+.principal {
+    position: static;
+    display: flex;
+    width: 1340px;
+    height: 202px;
+    border-width: 3px;
+    border-style: solid;
+    border-color: black;
+}
